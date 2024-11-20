@@ -8,8 +8,6 @@
 - Estrategia  
 - Centro de Administración  
 - Centro de Excelencia (CoE)  
-- Servicios de Formación  
-- Administración Power Platform  
 
 ## Gestión de Entornos  
 
